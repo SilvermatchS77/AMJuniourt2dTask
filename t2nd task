@@ -1,0 +1,18 @@
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        byte countOfErrors;
+        short countOfBoxes;
+        int moneyInWallet;
+        uint keyOfEnter;
+        long rangeInMillimeters;
+        ulong myFutureSalary;
+        float volumeOfBox;
+        double spaceTime;
+        char indexLetter;
+        string directorName;
+    }
+}
